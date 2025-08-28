@@ -1,0 +1,19 @@
+{
+  "name": "majid-tufan-whatsapp-cloud-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Cloud API bot branded for MAJID × TUFAN",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "morgan": "^1.10.0"
+  }
+}
